@@ -1,2 +1,8 @@
-# Learning-log
-Daily learning log and notes.
+2025/9/9
+
+## **本日の学習記録**
+- PCのセットアップ
+- 午前試験１の学習
+
+*感想*
+PCのセットアップに時間を取られた。
